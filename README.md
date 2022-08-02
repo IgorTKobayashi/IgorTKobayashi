@@ -28,5 +28,5 @@
  	<a href="https://www.twitch.tv/kobatk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:igortk0bayashi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-kobayashi-630010a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://cursos.alura.com.br/user/igorkobayashi" target="_blank"><img src="https://userfiles.uptimerobot.com/img/382269-1603460435.jpg" target="_blank"></a> 
+  <a  href="https://cursos.alura.com.br/user/igorkobayashi" target="_blank"><img height="27" width="40" src="https://userfiles.uptimerobot.com/img/382269-1603460435.jpg" target="_blank"></a> 
 </div>
